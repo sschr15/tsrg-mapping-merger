@@ -1,0 +1,3 @@
+[submodule "MCPConfig"]
+	path = MCPConfig
+	url = https://github.com/MinecraftForge/MCPConfig
